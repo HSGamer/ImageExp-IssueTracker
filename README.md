@@ -1,7 +1,21 @@
 # ImageExp-IssueTracker
 Issue Tracker for ImageExp
 
-# How to submit issues
+## Info
+### Page
+* Backend: https://image-exp-backend.herokuapp.com/
+* Frontend: https://imgexp.herokuapp.com/
+
+### Environment
+* Backend:
+  * Java 8
+* Frontend:
+  * Angular framework
+* Database:
+  * SQLite (local database)
+  * MySQL (production database)
+
+## How to submit issues
 1. Go to [this](https://github.com/HSGamer/ImageExp-IssueTracker/issues/new/choose)
 2. Choose the type of report and click `Get Started`
 3. Fill out all neccessary sections
