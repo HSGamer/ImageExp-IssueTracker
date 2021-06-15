@@ -15,6 +15,12 @@ Issue Tracker for ImageExp
   * SQLite (local database)
   * MySQL (production database)
 
+### Unit Test Tools
+* Backend:
+  * JUnit
+* Frontend:
+  * Selenium
+
 ## How to submit issues
 1. Go to [this](https://github.com/HSGamer/ImageExp-IssueTracker/issues/new/choose)
 2. Choose the type of report and click `Get Started`
