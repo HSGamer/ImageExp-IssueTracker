@@ -15,9 +15,10 @@ Issue Tracker for ImageExp
   * SQLite (local database)
   * MySQL (production database)
 
-### Unit Test Tools
+### Test Tools
 * Backend:
   * JUnit
+  * Postman
 * Frontend:
   * Selenium
 
