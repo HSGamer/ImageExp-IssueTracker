@@ -25,7 +25,7 @@ Issue Tracker for ImageExp
   * JUnit
   * Postman
 * Frontend:
-  * Selenium
+  * Cypress
 
 ## How to submit issues
 1. Go to [this](https://github.com/HSGamer/ImageExp-IssueTracker/issues/new/choose)
